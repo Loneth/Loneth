@@ -16,8 +16,6 @@ i'm dae.
   <img align="left" src="https://lanyard-profile-readme.vercel.app/api/514722220090851328" alt="Discord Profile"/>
 </a>
 
----
-
 <!--
 **Loneth/Loneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
