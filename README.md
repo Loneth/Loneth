@@ -1,4 +1,5 @@
 ## 👋, I'm dae!
+<img alt="banner" src="https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png"/>
 
 ### About
 - Pronouns: he/him.
@@ -9,7 +10,6 @@
 - [Discord](https://discord.com/users/514722220090851328)
 - [Email](mailto:dae@goat.si)
 
-<img alt="banner" src="https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png"/>
 
 <!--
 **Loneth/Loneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
