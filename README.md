@@ -13,7 +13,7 @@ i'm dae.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=loneth&count_private=true&show_icons=true" />
 </a>
 <a href="https://discord.com/users/514722220090851328">
-  <img src="https://lanyard-profile-readme.vercel.app/api/514722220090851328" alt="Discord Profile"/>
+  <img align="left" src="https://lanyard-profile-readme.vercel.app/api/514722220090851328" alt="Discord Profile"/>
 </a>
 
 ---
