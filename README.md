@@ -1,8 +1,8 @@
-# Hello there!
+# [![loneth header](https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png)](https://github.com/Loneth)
 
 i'm dae.
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on Dead game Private Server.
 - 💬 Ask me about anything.
 
 ### Contacts
