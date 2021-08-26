@@ -6,15 +6,16 @@ i'm dae.
 - 💬 Ask me about anything.
 
 ### Contacts:
+- <a href="https://discord.com/users/514722220090851328">Discord: `dae#1935`</a>
+- <a href="mailto:dae@goat.si">Mail: `dae@goat.si`</a>
+- <a href="mailto:notloneth@gmail.com">Mail: `notloneth@gmail.com`</a>
 
-- <a href="mailto:dae@goat.si">`dae@goat.si`</a>
-- <a href="mailto:notloneth@gmail.com">`notloneth@gmail.com`</a>
-
-<p align="center">
-  <a href="https://discord.com/users/514722220090851328">
-    <img src="https://lanyard-profile-readme.vercel.app/api/514722220090851328" alt="Discord Profile"/>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gavenda&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavenda" />
+</a>
 
 <!--
 **Loneth/Loneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
