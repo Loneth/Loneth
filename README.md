@@ -11,10 +11,10 @@ i'm dae.
 - <a href="mailto:notloneth@gmail.com">Mail: `notloneth@gmail.com`</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gavenda&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=loneth&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavenda" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loneth" />
 </a>
 
 <!--
