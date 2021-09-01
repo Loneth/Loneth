@@ -1,11 +1,11 @@
 ## 👋, I'm dae!
 
-### About:
+### About
 - Pronouns: he/him.
 - Currently working on a dead private server game.
 - Ask me about anything.
 
-### Contacts:
+### Contact
 - [Discord](https://discord.com/users/514722220090851328)
 - [Email](mailto:dae@goat.si)
 
