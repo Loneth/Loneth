@@ -2,7 +2,7 @@
 
 ### About
 - Pronouns: he/him.
-- Currently working on a dead private server game.
+- Currently working on [Nereus World](https://github.com/Nereus-Agathosune) a dead private server game.
 - Ask me about anything.
 
 ### Contact
