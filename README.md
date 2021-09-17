@@ -1,15 +1,23 @@
-## 👋, I'm dae!
-<img alt="banner" src="https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png"/>
+## Hey, I'm dae 👋
 
-### About
+![Profile Banner](https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png)
+
+My name is Odilio Ganesha Nugroho and i am 19 years old, usually i use the name zueira or dae when playing games. I am a student at Universitas Kristen Duta Wacana (UKDW) majoring informatics class of 2021 in Yogyakarta, Indonesia.
+
+### 🦄 About
+
 - Pronouns: he/him.
 - Currently working on [Nereus World](https://github.com/Nereus-Agathosune) a dead private server game.
 - Ask me about anything.
 
-### Contact
-- [Discord](https://discord.com/users/514722220090851328)
-- [Email](mailto:dae@goat.si)
+### 🌈 Contact
 
+To contact me quickly and easily, DM me on [Discord](https://discord.com/users/514722220090851328), If it makes more sense, you can also email me:
+
+**General:** dae@goat.si  
+**School:** odilio.ganesha@ti.ukdw.ac.id
+
+---
 
 <!--
 **Loneth/Loneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
