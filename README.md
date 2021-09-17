@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png)
 
-My name is Odilio Ganesha Nugroho and i am 19 years old, usually i use the name zueira or dae when playing games. I am a student at Universitas Kristen Duta Wacana (UKDW) majoring informatics class of 2021 in Yogyakarta, Indonesia.
+My name is Odilio Ganesha Nugroho and i am 19 years old, usually i use the name zueira or dae when playing games. I am a student at Universitas Kristen Duta Wacana (UKDW) majoring informatics class of 2021 in Yogyakarta, Indonesia. I love to learn, iterate, and fail fast on the path to success. I strive to lead with a servants heart and improve the lives of those around me.
 
 ### 🦄 About
 
