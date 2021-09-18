@@ -12,7 +12,7 @@ My name is Odilio Ganesha Nugroho and i am 19 years old, usually i use the name 
 
 ### 🌈 Contact
 
-To contact me quickly and easily, DM me on [Discord](https://discord.com/users/514722220090851328), If it makes more sense, you can also email me:
+To contact me quickly and easily DM me on [Discord](https://discord.com/users/514722220090851328), If it makes more sense, you can also email me:
 
 - dae@goat.si - My main email for general inquiries
 - odilio.ganesha@ti.ukdw.ac.id - Second email for school related
