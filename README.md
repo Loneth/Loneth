@@ -9,7 +9,7 @@ My name is Odilio Ganesha Nugroho and i am 20 years old, usually i use the name 
 ### 🦄 About
 
 - Pronouns: he/him
-- Currently working on [Nereus World](https://github.com/Nereus-Agathosune) a dead private server game
+- ~~Currently working on [Nereus World](https://github.com/Nereus-Agathosune) a dead private server game~~
 - Ask me about anything
 
 ### 🌈 Contact
