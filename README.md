@@ -4,7 +4,7 @@
   <img alt="banner" src="https://github.com/Loneth/Loneth/blob/main/assets/Github-Banner.png"/>
 </a>
 
-My name is Odilio Ganesha Nugroho and i am 20 years old, usually i use the name zueira or dae when playing games. I am a student at Universitas Kristen Duta Wacana (UKDW) majoring informatics class of 2021 in Yogyakarta, Indonesia. I love to learn, iterate, and fail fast on the path to success. I strive to lead with a servants heart and improve the lives of those around me.
+My name is Odilio Ganesha Nugroho you can call me zueira or dae. I'm a student at Duta Wacana Christian University (Universitas Kristen Duta Wacana / UKDW) majoring informatics class of 2021 in Yogyakarta, Indonesia. I love to learn, iterate, and fail fast on the path to success. I strive to lead with a servants heart and improve the lives of those around me.
 
 ### 🦄 About
 
@@ -14,10 +14,13 @@ My name is Odilio Ganesha Nugroho and i am 20 years old, usually i use the name 
 
 ### 🌈 Contact
 
-To contact me quickly and easily DM me on [Discord](https://discord.com/users/514722220090851328) If it makes more sense, you can also email me:
+To contact me quickly and easily DM me on [Discord](https://discord.com/users/693793268948926557) If it makes more sense, you can also email me:
+- ~~dae@goat.si~~ 
+- dae@getbackinthe.kitchen
 
-- dae@goat.si - My main email for general inquiries
-- odilio.ganesha@ti.ukdw.ac.id - Second email for school related
+Email for school related:
+- odilio.ganesha@ti.ukdw.ac.id
+- 71210739@students.ukdw.ac.id
 
 ---
 
